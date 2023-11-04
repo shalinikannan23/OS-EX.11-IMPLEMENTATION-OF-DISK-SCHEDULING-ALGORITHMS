@@ -267,5 +267,5 @@ int main()
 
 ![image](https://github.com/shalinikannan23/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118656529/94036703-858c-45ae-8a2a-b04b4b5995e4)
 
-Result:
+# Result:
 Thus the implementation of the program for LOOK disc scheduling has been successfully executed
